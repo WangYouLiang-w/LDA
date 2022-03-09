@@ -28,7 +28,7 @@
 %
 % Last modified: Dec-11-2010
 
-
+%20220309
 function W = LDA(Input,Target,Priors)
 
 % Determine size of input data
